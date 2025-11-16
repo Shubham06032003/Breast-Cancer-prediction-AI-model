@@ -1,0 +1,42 @@
+.stVerticalBlock{
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: rgb(45, 45, 45);
+}
+
+.st-emotion-cache-wfksaw{
+    background-color: rgb(60, 60, 60);
+}
+.st-emotion-cache-1n6tfoc{
+    background-color: rgb(60, 60, 60);
+}
+
+#breast-cancer-predictor{
+    color: #C2185B;
+}
+
+.st-emotion-cache-467cry{
+    color: #F06292;
+}
+
+.diagnosis-malignant{
+    color:#e33333;
+    font-weight:bold;
+    padding:8px 18px;
+    border-radius:10px;
+    background-color: maroon;
+}
+
+.diagnosis-benign{
+    color:#e33333;
+    font-weight:bold;
+    padding:8px 18px;
+    border-radius:10px;
+    background-color: lawngreen;
+}
+
+.prediction{
+    padding:8px 18px;
+    border-radius:10px;
+    background-color: rgb(40, 40, 40);
+}
